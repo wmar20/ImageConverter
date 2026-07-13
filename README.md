@@ -1,5 +1,9 @@
 # Image Converter
 
+*by fancy tools: https://webfancy.pl*
+
+*[English version](README.en.md)*
+
 Skrypt do masowej konwersji obrazów (domyślnie na WebP, opcjonalnie na inny format) z zachowaniem struktury katalogów i opcjonalnym skalowaniem.
 
 ## Instalacja
