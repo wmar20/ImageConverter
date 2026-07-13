@@ -6,7 +6,15 @@
 
 A script for bulk image conversion (defaults to WebP, optionally to another format) that preserves the directory structure and supports optional resizing.
 
-## Installation
+## macOS App
+
+The [MacOS App](MacOS App/) directory contains a native desktop app with the same conversion engine: drag & drop folders/files, WebP / JPEG / PNG / HEIC / TIFF / BMP / GIF output, a quality slider, dimension limits, live progress, and a summary with saved disk space. Conversion runs in parallel on all CPU cores — no Python required.
+
+### Ready-to-use build
+
+Latest release: **v0.1** — [download ImageConverter.dmg](<MacOS App/Releases/v0.1/ImageConverter.dmg>)
+
+## Installation and usage of the Python version
 
 1. Create a virtual environment:
    ```bash

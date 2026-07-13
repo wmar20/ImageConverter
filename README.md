@@ -6,7 +6,15 @@
 
 Skrypt do masowej konwersji obrazów (domyślnie na WebP, opcjonalnie na inny format) z zachowaniem struktury katalogów i opcjonalnym skalowaniem.
 
-## Instalacja
+## Aplikacja na macOS
+
+W katalogu [MacOS App/](MacOS App/) znajduje się natywna aplikacja desktopowa z tym samym silnikiem konwersji: drag & drop folderów/plików, formaty WebP / JPEG / PNG / HEIC / TIFF / BMP / GIF, suwak jakości, limity wymiarów, pasek postępu i podsumowanie z zaoszczędzonym miejscem. Konwersja działa równolegle na wszystkich rdzeniach CPU — bez Pythona.
+
+### Gotowa wersja do pobrania
+
+Najnowsze wydanie: **v0.1** — [pobierz ImageConverter.dmg](<MacOS App/Releases/v0.1/ImageConverter.dmg>)
+
+## Instalacja i użycie wersji Pythonowej skryptu
 
 1. Stwórz wirtualne środowisko:
    ```bash

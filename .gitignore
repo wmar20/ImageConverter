@@ -8,4 +8,9 @@ __pycache__/
 *.env
 .env*
 .venv*
-venv* 
+venv*
+macos/.build/
+macos/dist/
+macos/AppIcon/AppIcon.iconset/
+macos/*
+.DS_Store
