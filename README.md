@@ -12,7 +12,7 @@ W katalogu [MacOS App/](MacOS App/) znajduje się natywna aplikacja desktopowa z
 
 ### Gotowa wersja do pobrania
 
-Najnowsze wydanie: **v0.1** — [pobierz ImageConverter.dmg](<MacOS App/Releases/v0.1/ImageConverter.dmg>)
+Najnowsze wydanie: **v0.1.1** — [pobierz ImageConverter.dmg](<MacOS App/Releases/v0.1.1/ImageConverter.dmg>) — zobacz [CHANGELOG.md](CHANGELOG.md)
 
 ## Instalacja i użycie wersji Pythonowej skryptu
 

@@ -12,7 +12,7 @@ The [MacOS App](MacOS App/) directory contains a native desktop app with the sam
 
 ### Ready-to-use build
 
-Latest release: **v0.1** — [download ImageConverter.dmg](<MacOS App/Releases/v0.1/ImageConverter.dmg>)
+Latest release: **v0.1.1** — [download ImageConverter.dmg](<MacOS App/Releases/v0.1.1/ImageConverter.dmg>) — see [CHANGELOG.en.md](CHANGELOG.en.md)
 
 ## Installation and usage of the Python version
 
