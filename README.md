@@ -55,3 +55,7 @@ Przykład konwersji do JPG:
 ```bash
 python convert_to_webp.py ./input_images --format jpg -q 85
 ```
+
+## Licencja
+
+Bezpłatne użytkowanie i rozpowszechnianie bez modyfikacji — patrz [LICENSE.md](LICENSE.md).
